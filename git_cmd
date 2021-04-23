@@ -1,0 +1,8 @@
+
+git clone <url> 
+cd <project>/
+git status 
+git add *
+
+git commit -m "intial version"
+git push
